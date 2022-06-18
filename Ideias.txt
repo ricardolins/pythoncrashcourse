@@ -1,0 +1,1 @@
+Fazer um python com lambda + aws config para pegar beanstalks para vencer
