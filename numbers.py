@@ -1,4 +1,4 @@
-#intergers
+#interger
 
 >>> 2 + 3
 5
